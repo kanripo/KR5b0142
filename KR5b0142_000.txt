@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:49:58.634616
+# -*- mode: mandoku-view -*-
 #+TITLE: 上清眾真教戒德行經
-#+PROPERTY: DZID  DZ0458
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，6—895 一卷 洞玄部戒律類
+#+DATE: 2015-08-28 23:49:59
+#+PROPERTY:  LASTPB <PB KR5b0142_SJB_002-060897c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5b0142_HFL_002-005b>¶¶¶¶¶¶¶¶¶¶¶
+
